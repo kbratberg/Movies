@@ -1,0 +1,15 @@
+C:\Users\kateb\OneDrive\Desktop\Movies\bin\Debug\netcoreapp3.1\Movies.exe
+C:\Users\kateb\OneDrive\Desktop\Movies\bin\Debug\netcoreapp3.1\Movies.deps.json
+C:\Users\kateb\OneDrive\Desktop\Movies\bin\Debug\netcoreapp3.1\Movies.runtimeconfig.json
+C:\Users\kateb\OneDrive\Desktop\Movies\bin\Debug\netcoreapp3.1\Movies.runtimeconfig.dev.json
+C:\Users\kateb\OneDrive\Desktop\Movies\bin\Debug\netcoreapp3.1\Movies.dll
+C:\Users\kateb\OneDrive\Desktop\Movies\bin\Debug\netcoreapp3.1\Movies.pdb
+C:\Users\kateb\OneDrive\Desktop\Movies\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\kateb\OneDrive\Desktop\Movies\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\kateb\OneDrive\Desktop\Movies\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\kateb\OneDrive\Desktop\Movies\obj\Debug\netcoreapp3.1\Movies.csprojAssemblyReference.cache
+C:\Users\kateb\OneDrive\Desktop\Movies\obj\Debug\netcoreapp3.1\Movies.AssemblyInfoInputs.cache
+C:\Users\kateb\OneDrive\Desktop\Movies\obj\Debug\netcoreapp3.1\Movies.AssemblyInfo.cs
+C:\Users\kateb\OneDrive\Desktop\Movies\obj\Debug\netcoreapp3.1\Movies.csproj.CopyComplete
+C:\Users\kateb\OneDrive\Desktop\Movies\obj\Debug\netcoreapp3.1\Movies.dll
+C:\Users\kateb\OneDrive\Desktop\Movies\obj\Debug\netcoreapp3.1\Movies.pdb
